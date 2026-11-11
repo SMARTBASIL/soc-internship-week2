@@ -1,0 +1,8 @@
+;; Got recursion not available from 8.8.8.8
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	networkwalks.com
+Address: 192.232.216.135
+
